@@ -1,3 +1,9 @@
 # FloraNexus
 
-![Creative_Dossier_Kunstfonds](D:\OneDrive\Projects\2402_FloraNexus\FloraNexus\img\Creative Dossier\Creative_Dossier_Kunstfonds.jpg)
+![Creative_Dossier_Kunstfonds_01](img\Creative_Dossier\Creative_Dossier_Kunstfonds1.jpg)
+
+![Creative_Dossier_Kunstfonds_02](img\Creative_Dossier\Creative_Dossier_Kunstfonds1.jpg)
+
+![Creative_Dossier_Kunstfonds_01](img\Creative_Dossier\Creative_Dossier_Kunstfonds2.jpg)
+
+![Creative_Dossier_Kunstfonds_01](img\Creative_Dossier\Creative_Dossier_Kunstfonds3.jpg)
